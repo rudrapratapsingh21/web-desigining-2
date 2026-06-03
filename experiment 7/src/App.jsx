@@ -8,8 +8,8 @@ function App() {
       <h1 className="app-title">Student Information</h1>
 
       <Student name="Rahul Sharma"  course="Computer Science"       marks={85} />
-      <Student name="Anita Verma"   course="Information Technology" marks={92} />
-      <Student name="Rohan Gupta"   course="Electronics"            marks={78} />
+      <Student name="sunaina Verma"   course="Information Technology" marks={92} />
+      <Student name="piyush Gupta"   course="Electronics"            marks={78} />
       <p>Name: Rudra Pratap Singh <br /> Branch:CSE-25 <br />Roll No.:2503201000954</p>
     </div>
   )
